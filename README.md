@@ -11,7 +11,9 @@
 构建线上环境： npm run build
 
 ## 目录结构：
+
 ![目录结构](https://leehongqiang.github.io/images/webpack_img.jpg)
+
 dist : 打包后的文件了存储路径，在上线时提供的项目目录
 node_modules ： 开发时依赖和插件安装目录，node提供
 src ： 开发时代码编辑区
