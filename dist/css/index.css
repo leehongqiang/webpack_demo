@@ -1,0 +1,12 @@
+body {
+  background: #ccc;
+  color: red;
+}
+
+.imgs {
+  background: url(http://localhost:2232/images/63c68f722697a5542bcd5eb0272a5b61.png);
+  width: 465px;
+  height: 691px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}

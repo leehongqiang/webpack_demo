@@ -1,0 +1,14 @@
+body{
+  background: #ccc;
+  color: red
+}
+
+.imgs{
+  background: url('./img/cyl.png');
+  width:465px;
+  height:691px;
+  transform: rotate(45deg);
+}
+.ccss{
+  font-size: 12px;
+}
