@@ -1,6 +1,15 @@
 
 最近在学习webpack3.0特记录一下
 
+
+安装： 进入目录并npm install 安装所有依赖
+
+启动本地服务：npm run server 
+
+构建开发环境：npm run dev
+
+构建线上环境： npm run build
+
 ## 目录结构：
 ![目录结构](https://leehongqiang.github.io/images/webpack_img.jpg)
 dist : 打包后的文件了存储路径，在上线时提供的项目目录
